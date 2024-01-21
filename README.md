@@ -2,6 +2,13 @@
 
 ## <br>Hi there, I'm Mattia! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=btcleet&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="400" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="345" />
+</a>
+
 <table border="0" style="border:none;">
   <tr>
     <td style="border:none;">
