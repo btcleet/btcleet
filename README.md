@@ -5,7 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=btcleet&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="500" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="500" />
 </a>
 
