@@ -2,14 +2,12 @@
 
 ## <br>Hi there, I'm Mattia! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=btcleet&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=github_dark" />
 </a>
-</div>
 
 ### 👀 I'm looking for collaborators
 
