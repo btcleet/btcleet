@@ -158,10 +158,8 @@ If you're intrigued by zero-knowledge proofs and have a passion for expanding Bi
 
 ![Static Badge](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=%23FFFFFF&color=000000&link=https%3A%2F%2Fwww.twitter.com%2Fbtcleet)
 ![Static Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpntmtt%2F)
-![Static Badge](https://img.shields.io/badge/-Hackster-2E9FE6?style=for-the-badge&logo=hackster&logoColor=FFFFFF&link=https%3A%2F%2Fwww.hackster.io%2F)
 ![Static Badge](https://img.shields.io/badge/-Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=FFFFFF&link=https%3A%2F%2Fwww.crunchbase.com%2F)
 ![Static Badge](https://img.shields.io/badge/-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=FFFFFF&link=https%3A%2F%2F%2Fwww.calendly.com%2Fmattiapintus)
-![Static Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40btcleet)
 ![Static Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F421275898344636416)
 ![Static Badge](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&link=https%3A%2F%2Ft.me%2Fbtcleet)
 ![Static Badge](https://img.shields.io/badge/-XMPP-050708?style=for-the-badge&logo=xmpp&logoColor=%23FFFFFF&link=xmpp%3Abtcleet%40rogue.im)
