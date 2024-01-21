@@ -9,21 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="500" />
 </a>
 
-<table border="0" style="border:none;">
-  <tr>
-    <td style="border:none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=btcleet&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
-      </a>
-    </td>
-    <td style="border:none;">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&card_width=500&hide_border=true&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### 👀 I'm looking for collaborators
 
 #### Let's explore the world of zero-knowledge proofs together!
