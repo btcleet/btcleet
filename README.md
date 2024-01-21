@@ -150,12 +150,9 @@ If you're intrigued by zero-knowledge proofs and have a passion for expanding Bi
 ![Static Badge](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=%23FFFFFF&color=F7931A)
 ![Static Badge](https://img.shields.io/badge/-Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=FFFFFF&)
 ![Static Badge](https://img.shields.io/badge/-Ethereum-37367B?style=for-the-badge&logo=ethereum&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/-BNB-ecb52d?style=for-the-badge&logo=bnbchain&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/-Litecoin-325999?style=for-the-badge&logo=litecoin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-Monero-f46201?style=for-the-badge&logo=monero&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-Zcash-%23edb226?style=for-the-badge&logo=zcash&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/-Dash-2d89de?style=for-the-badge&logo=dash&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/-USDT-1c9090?style=for-the-badge&logo=tether&logoColor=FFFFFF)
 
 #### Social Media
 
