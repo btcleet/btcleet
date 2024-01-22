@@ -82,6 +82,7 @@ If you're intrigued by zero-knowledge proofs and have a passion for expanding Bi
 [![Static Badge](https://img.shields.io/badge/-pnpm-F9AD01?style=for-the-badge&logo=pnpm&logoColor=FFFFFF)](#)
 [![Static Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)](#)
 [![Static Badge](https://img.shields.io/badge/-npm-c63332?style=for-the-badge&logo=npm&logoColor=FFFFFF)](#)
+[![Static Badge](https://img.shields.io/badge/-.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000000)](#)
 [![Static Badge](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=5FD5F4)](#)
 [![Static Badge](https://img.shields.io/badge/-Redux-593c88?style=for-the-badge&logo=redux&logoColor=FFFFFF)](#)
 [![Static Badge](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF)](#)
