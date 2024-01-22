@@ -159,7 +159,7 @@ If you're intrigued by zero-knowledge proofs and have a passion for expanding Bi
 <a href="https://www.twitter.com/btcleet">![Static Badge](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=%23FFFFFF&color=000000)</a>
 <a href="https://www.linkedin.com/in/pntmtt">![Static Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFFFFF)</a>
 <a href="https://www.crunchbase.com/person/mattia-pintus">![Static Badge](https://img.shields.io/badge/-Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=FFFFFF)</a>
-<a href="https://www.calendly.com/mattiapintus">![Static Badge](https://img.shields.io/badge/-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=FFFFFF)</a>
+<a href="https://www.calendly.com/pntmtt">![Static Badge](https://img.shields.io/badge/-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=FFFFFF)</a>
 <a href="https://www.discordapp.com/users/F421275898344636416">![Static Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=%23FFFFFF)</a>
 <a href="https://t.me/btcleet">![Static Badge](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)</a>
 <a href="xmpp:btcleet@rogue.im">![Static Badge](https://img.shields.io/badge/-XMPP-050708?style=for-the-badge&logo=xmpp&logoColor=%23FFFFFF)</a>
