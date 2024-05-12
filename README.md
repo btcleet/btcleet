@@ -9,24 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="420" />
 </a>
 
-### 👀 I'm looking for collaborators
-
-#### Let's explore the world of zero-knowledge proofs together!
-
-🔍 **Are you fascinated by cryptography and privacy-preserving technologies?** I am deeply interested in the field of zero-knowledge proofs and am currently exploring their applications in Bitcoin L2s under the form of zkRollups.
-
-#### Why Collaborate with Me?
-- **Experience and Knowledge:** Since 2010, I've been immersed in software development and cybersecurity. My journey with Bitcoin started in 2013, long before it became a household name. I also have hands-on experience in Bitcoin mining during the early days of ASIC miners.
-- **Innovative Project:** I'm currently leading the development of [zkLayer](https://www.github.com/zkLayer) - an ambitious project aiming to revolutionize Bitcoin's Layer 2 infrastructure. zkLayer is a trust-minimized, permissionless, and decentralized Bitcoin L2 network leveraging zkRollup technology for scalable, low-cost, and privacy-enhanced transactions on Bitcoin. It operates as a modular off-chain Turing Complete smart contracts execution layer based on the zkEVM, expanding Bitcoin's capabilities for complex transactions and dApp scalability, all without needing modifications to Bitcoin's core codebase.
-- **Learning and Growth:** My philosophy is rooted in mutual growth and knowledge exchange. Whether you are a seasoned expert in ZKPs or just starting, there's a place for you here. We can learn and innovate together!
-
-#### What I'm Looking For
-- **Enthusiasm for Cryptography:** You should have a keen interest and know-how in at least one but preferably more of the following techs: Bitcoin, Bitcoin Script, Tapscript, EVM, Smart Contracts, Cryptography and ZKPs.
-- **Commitment to Collaboration:** I'm looking for individuals who are committed to regular discussions and contributions.
-
-#### Get Involved!
-If you're intrigued by zero-knowledge proofs and have a passion for expanding Bitcoin's technological frontiers, I'd love to collaborate with you. Whether you have ideas, skills, or just enthusiasm, reach out to me at one of my contacts at the bottom of this page. Let's push the boundaries of privacy and scalability on Bitcoin together!
-
 #### Technologies, Frameworks and Tools
 
 [![Static Badge](https://img.shields.io/badge/-MacBook%20Pro-000000?style=for-the-badge&logo=apple&logoColor=%23FFFFFF)](#)
