@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btcleet&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="420" />
 </a>
 
-#### Technologies, Frameworks and Tools
+#### 💻 Hardware
 
 [![Static Badge](https://img.shields.io/badge/-MacBook%20Pro-000000?style=for-the-badge&logo=apple&logoColor=%23FFFFFF)](#)
 [![Static Badge](https://img.shields.io/badge/-Raspberry%20Pi-C7053D?style=for-the-badge&logo=raspberrypi&logoColor=%23FFFFFF)](#)
